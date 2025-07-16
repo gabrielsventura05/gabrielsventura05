@@ -1,4 +1,4 @@
-Sejam bem-vindos ao meu repositório. Aqui estão todos os meus projetos de desenvolvimento web FRONT-END e BACK-END.
+Sejam bem-vindos ao meu repositório. Aqui estão todos os meus projetos de desenvolvimento web.
 -------
 
 # 💻🛠 Linguagens e Tecnologias
