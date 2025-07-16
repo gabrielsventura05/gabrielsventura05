@@ -11,6 +11,7 @@ Sejam bem-vindos ao meu repositório. Aqui estão todos os meus projetos de dese
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Firebase" alt="Firebase" width="60" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="60" height="40"/>&nbsp;
 </div>
 
 -------
